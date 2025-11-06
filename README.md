@@ -133,8 +133,8 @@
   <header class="hero">
     <div class="container hero-wrap">
       <div>
-        <h1>집단 세포이동과 형태 기반 분석</h1>
-        <p>세포의 <strong>형태·분자 상태</strong>와 <strong>집단적 상호작용</strong>이 어떻게 이동 특성을 만들고 조직 수준의 물성을 바꾸는지 탐구합니다. 머신러닝/컴퓨터비전 + 실험 데이터를 통합해 <em>해석·예측</em> 가능한 모델을 구축합니다.</p>
+        <h1>Collective Cell Migration & Cell Mechanics</h1>
+        <p>I investigate <strong>형태·분자 상태</strong>와 <strong>집단적 상호작용</strong>이 어떻게 이동 특성을 만들고 조직 수준의 물성을 바꾸는지 탐구합니다. 머신러닝/컴퓨터비전 + 실험 데이터를 통합해 <em>해석·예측</em> 가능한 모델을 구축합니다.</p>
         <span class="badge">Brown University · Wong Lab · Postdoctoral Researcher</span>
         <div style="margin-top:14px">
           <a class="btn" href="#publications">주요 논문 보기</a>
