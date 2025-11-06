@@ -116,14 +116,14 @@
   <!-- ===== NAV ===== -->
   <nav class="nav">
     <div class="container nav-inner">
-      <div class="brand">Hyeontae Jeong</div>
+      <div class="brand">Hyuntae Jeong</div>
       <div class="nav-links" role="navigation">
-        <a href="#about">소개</a>
-        <a href="#research">연구</a>
-        <a href="#publications">출판물</a>
-        <a href="#gallery">이미지</a>
-        <a href="#videos">영상</a>
-        <a href="#contact">연락처</a>
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publication</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#videos">Videos</a>
+        <a href="#contact">Contact</a>
       </div>
       <button id="themeToggle" class="toggle" aria-label="Toggle dark mode">🌓</button>
     </div>
