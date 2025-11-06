@@ -75,7 +75,7 @@
     .hero { padding: 36px 0 20px; }
     .hero-wrap { display: grid; grid-template-columns: 1.2fr .8fr; gap: 24px; align-items: center; }
     @media (max-width: 860px){ .hero-wrap { grid-template-columns: 1fr; } }
-    .hero h1 { font-size: clamp(2rem, 1.2rem + 2.8vw, 3rem); line-height: 1.15; margin: 0; }
+    .hero h1 { font-size: clamp(1.5rem, 1.0rem + 2.0vw, 2.5rem); line-height: 1.15; margin: 0; }
     .hero p { color: var(--muted); margin-top: 12px; }
     .hero .badge { display: inline-block; background: var(--card); border: 1px solid var(--border); padding: 6px 10px; margin-top: 12px; border-radius: 999px; font-size: .9rem; }
     .hero .figure { aspect-ratio: 4/3; background: var(--card); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; box-shadow: var(--shadow); }
