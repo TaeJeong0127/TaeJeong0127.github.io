@@ -72,7 +72,7 @@
     .toggle { border: 1px solid var(--border); background: var(--card); color: var(--text); border-radius: 12px; padding: 6px 10px; cursor: pointer; }
 
     /* ===== HERO ===== */
-    .hero { padding: 72px 0 40px; }
+    .hero { padding: 36px 0 20px; }
     .hero-wrap { display: grid; grid-template-columns: 1.2fr .8fr; gap: 24px; align-items: center; }
     @media (max-width: 860px){ .hero-wrap { grid-template-columns: 1fr; } }
     .hero h1 { font-size: clamp(2rem, 1.2rem + 2.8vw, 3rem); line-height: 1.15; margin: 0; }
